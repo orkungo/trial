@@ -48,7 +48,7 @@ end
 group :production do
   gem 'pg'
   gem 'thin'
-  gem "rspec-rails", "2.11.0"
+  gem "rspec", "2.11.0"
 end
 
 # Gems used only for assets and not required

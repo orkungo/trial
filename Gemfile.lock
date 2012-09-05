@@ -146,6 +146,7 @@ DEPENDENCIES
   json
   pg
   rails (= 3.2.8)
+  rspec (= 2.11.0)
   rspec-rails (= 2.11.0)
   sass-rails (~> 3.2.3)
   sqlite3
